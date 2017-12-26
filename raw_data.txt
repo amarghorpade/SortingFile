@@ -1,0 +1,10 @@
+amar,27,sangli
+sagar,28,kupwad
+mandar,29,v.bhag
+abhi,21,pune
+sujoy,23,mumbai
+bharat,10,gujrat
+sachin,100,Umadi
+dilip,8,jath
+neenad,5,palus
+deepak,17,satara
